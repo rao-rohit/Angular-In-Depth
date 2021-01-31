@@ -11,3 +11,5 @@ To run:
 1. npm install
 2. npm start
 3. open browser - http:\\localhots:4000
+
+https://github.com/rao-rohit/Angular-In-Depth/blob/main/NG2-Bindings/img/bindings.png
