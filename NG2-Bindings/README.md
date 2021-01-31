@@ -1,9 +1,9 @@
-Here we are covering - 
-    Interpolation
-    Property Binding - [] - One way
-    Event Binding = () - One way
-    Two Way binding using [(ngModule)]
-    Template ref variable #ref
+Here we are covering - <br/>
+    Interpolation<br/>
+    Property Binding - [] - One way<br/>
+    Event Binding = () - One way<br/>
+    Two Way binding using [(ngModule)]<br/>
+    Template ref variable #ref<br/>
 
 
 To run:
