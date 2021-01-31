@@ -24,7 +24,7 @@ Now we can use a component decorator to implement metadata for the component we 
   */
   template:`
     <div class="app">
-    {{title}}
+    {{header}}
     </div>
   
   `,
@@ -41,7 +41,7 @@ export class AppComponent //#2
   header:string;
   constructor()
   {
-    this.header = 'Angular Basic Flow'
+    this.header = 'Angular Basic Flow & Bootstrapping'
   }
 
 }

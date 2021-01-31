@@ -1,13 +1,8 @@
 {
-  "name": "angular-fundamentals-seed",
+  "name": "basicflow",
   "version": "0.1.0",
-  "description": "Ultimate Angular: Angular Fundamentals Seed",
-  "repository": {
-    "url": "git@github.com:UltimateAngular/angular-fundamentals-seed.git",
-    "type": "git"
-  },
-  "license": "MIT",
-  "author": "Ultimate Angular",
+  "description": "Basic Flow and Bootstrapping",
+  "author": "Rohit rao",
   "dependencies": {
     "@angular/common": "4.0.0-beta.1",
     "@angular/compiler": "4.0.0-beta.1",
